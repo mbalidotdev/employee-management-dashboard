@@ -54,4 +54,4 @@ I built this project to strengthen my understanding of HTML tables.
 
 ## Video Demo
 
-https://github.com/user-attachments/assets/f67655f9-2d8c-4cb6-86a6-667946036883
+https://github.com/user-attachments/assets/6f78e521-073d-4216-830c-180cdf13f2df
